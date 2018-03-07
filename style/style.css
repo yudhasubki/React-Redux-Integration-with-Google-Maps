@@ -1,0 +1,15 @@
+.container{
+    margin: 0 100px;
+}
+
+.header{
+    background-color: rgba(153, 153, 153,.2);
+    padding: 16px;
+    border-radius: 5px;
+    color: rgb(80, 69, 69);
+}
+
+.map{
+    width: 250px;
+    height: 250px;
+}
